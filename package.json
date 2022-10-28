@@ -1,8 +1,8 @@
 {
-  "name": "playground",
+  "name": "transcoder",
   "version": "1.0.0",
   "description": "",
-  "main": "intTo32ip.js",
+  "main": "transcoder.js",
   "dependencies": {
     "jest": "^29.2.2"
   },
